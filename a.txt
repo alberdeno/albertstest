@@ -3,3 +3,4 @@ test line 1
 line v
 line w
 line x
+line z
